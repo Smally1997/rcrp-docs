@@ -1,0 +1,4 @@
+- ## Information
+    - [Introduction](/help/{{version}}/index)
+    - [Credits](/help/{{version}}/credits) 
+    - [Contributing](/help/{{version}}/contributing)
