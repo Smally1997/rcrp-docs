@@ -1,2 +1,2 @@
 - ## Introduction
-    - [Test](test)
+    - [Welcome](/help/welcome)
